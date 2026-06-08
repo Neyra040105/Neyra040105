@@ -1,7 +1,3 @@
-# Project Title
-
-A brief description of what this project does and who it's for
-
 # 👋 ¡Hola! Soy Neyra
 
 ## 💻 Estudiante de Ingeniería en Sistemas
@@ -42,9 +38,7 @@ Seguir creciendo como desarrollador de software, aprender nuevas tecnologías y 
 
 ### 📈 Estadísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Neyra040105&theme=highcontrast)](https://git.io/streak-stats)
 
 ### 📫 Contacto
 
